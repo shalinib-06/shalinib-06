@@ -5,7 +5,7 @@ Second-year Software Engineering student passionate about web development and op
 - 🚀 Currently learning:  React and Golang.<br>
 - 🎯 Goals:  Aspiring to become a full-stack developer. Seeking web development internships for hands-on experience.<br>
 - 📫 Reach me:  [LinkedIn](https://www.linkedin.com/in/shalinibalaji/)<br>
-- 🌟 Fun fact:  I know a little German! Learning new languages (both coding and spoken) excites me.
+- 🌟 Fun fact:  I know a little German. Learning new languages (both coding and spoken) excites me!
   
 ---
 ### 🎓 Education
