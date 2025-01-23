@@ -1,4 +1,4 @@
-### 👋 Hi! I'm Shalini
+### Hello! I'm Shalini
 ---
 Second-year Software Engineering student passionate about web development and open-source.<br>
 - 🌐 Skills:  Frontend, JavaScript, MySQL, PHP, Java.<br>
