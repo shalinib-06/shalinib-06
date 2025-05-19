@@ -4,7 +4,7 @@ Second-year Software Engineering student passionate about web development and op
 - 🌐 Skills:  Frontend, JavaScript, MySQL, PHP, Java, PL/SQL.<br>
 - 🚀 Currently learning:  React and Golang.<br>
 - 🎯 Goals:  Aspiring to become a full-stack developer. Seeking web development internships for hands-on experience.<br>
-- 📫 Reach me:  [LinkedIn](https://www.linkedin.com/in/shalinibalaji/)<br>
+- 📫 Reach me:  [LinkedIn](https://www.linkedin.com/in/shalinibalaji/) | [Email](mailto:shalinibalaji0611@gmail.com)
 - 🌟 Fun fact:  I know a little German. Learning new languages (both coding and spoken) excites me!
   
 ---
