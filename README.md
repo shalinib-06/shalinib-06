@@ -1,6 +1,6 @@
 ### Hello! I'm Shalini B
 ---
-Second-year Software Engineering student passionate about web development and open-source.<br>
+Third-year Software Engineering student passionate about web development and open-source.<br>
 - 🌐 Skills:  Frontend, JavaScript, MySQL, PHP, Java, PL/SQL.<br>
 - 🚀 Currently learning:  Bootstrap and React.<br>
 - 🎯 Goals:  Aspiring to become a full-stack developer. Seeking web development internships for hands-on experience.<br>
